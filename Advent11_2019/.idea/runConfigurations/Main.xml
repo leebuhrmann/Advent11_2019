@@ -1,5 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main" type="Application" factoryName="Application" singleton="false">
+    <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-14.0.1" />
     <option name="MAIN_CLASS_NAME" value="Advent11_2019.Main" />
     <module name="Advent11_2019" />
     <method v="2">

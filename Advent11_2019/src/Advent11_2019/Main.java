@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
 
         //This takes the data within a .txt file and places it within a String named initialData
-        Scanner s = new Scanner(new File("C:\\Users\\lbuhr\\IdeaProjects\\Advent11_2019\\src\\data.txt"));
+        Scanner s = new Scanner(new File("src\\data.txt"));
         String initialData = s.next();
         s.close();
 
