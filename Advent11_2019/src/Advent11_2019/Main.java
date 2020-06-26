@@ -53,5 +53,10 @@ public class Main {
                 System.out.print(bot.getMapChar(x,y) + " ");
             }
         }
+
+        int x = 1;
+        int y = 2;
+        int test = x + y;
+        System.out.println(test);
     }
 }
